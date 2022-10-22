@@ -7,4 +7,4 @@ Based on an MDOTM’s research that investigated the differences in correlation 
 
  This research was made to gauge the differences correlations level of sectors and factors during all those complex and different times.
  
- To see the results of my anaysis go to the [Juypter Notebook](Sectors_Factors/Sectors_factors.ipynb)
+ To see the results of my anaysis go to the [Juypter Notebook](Sectors_factors.ipynb)
