@@ -1,4 +1,4 @@
-# Sectors_Factors
+# Sectors & Factors
 
 Based on an MDOTM’s research, made a few years ago, that investigated the differences in correlations of factors and sectors; I have redone this research on a Jupyter Notebook segmenting the observation into 3 timeframes: 
 - 1 year before the COVID-19 pandemic (here there are some issues since the ETF's where quotd after on yfinance)
