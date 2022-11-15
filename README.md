@@ -6,6 +6,6 @@ Based on an MDOTM’s research, made a few years ago, that investigated the diff
 - From the war in Ukraine to today
 This research was made to update the results and gauge the differences in correlation of factors and sectors during all those complex and different periods.
  
-To see the results of my analysis go to the [Juypter Notebook](Sectors_factors.ipynb)
+To see the results of the analysis go to the [Juypter Notebook](Sectors_factors.ipynb)
 
-(Currently working on aversion on European markets)
+(Currently i'm trying to solve some issue wiht the data availability for the first period)
