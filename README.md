@@ -8,4 +8,4 @@ This research was made to update the results and gauge the differences in correl
  
 To see the results of the analysis go to the [Juypter Notebook](Sectors_factors.ipynb)
 
-(Currently i'm trying to solve some issue wiht the data availability for the first period)
+(Currently I'm trying to solve some issues with the data availability for the first timeframe)
